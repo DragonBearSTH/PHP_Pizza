@@ -1,0 +1,4 @@
+# /api
+# /classes
+/classes/gateway/truemoney.class.php
+/classes/gateway/kasikornbank.class.php
